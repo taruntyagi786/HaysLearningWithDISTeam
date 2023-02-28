@@ -7,7 +7,7 @@ class Demo
     }
 }
 class Demo2 extends Demo{
-    public void display()
+    public final void display()
     {
         System.out.println("final method cannot override");
     }

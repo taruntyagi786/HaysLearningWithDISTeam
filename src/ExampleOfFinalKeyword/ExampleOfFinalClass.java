@@ -1,6 +1,6 @@
 package ExampleOfFinalKeyword;
 
- class First
+final class First
 {
 
 } class Second extends First{//final class  cannot be inherits
